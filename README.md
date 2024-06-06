@@ -1,7 +1,7 @@
 # Pedro Luis Gaspar Veira de Souza
 
 ## Sobre mim
-Muito prazer, me chamo Pedro Luis, tenho 20 anos e moro no Rio de Janeiro, sou estudante de Ciência da Computação na Unicarioca. Sou um apaixonado por tecnologia em busca da primeira oportunidade de estágio que busca cada dia mais aprender coisas novas e me capacitar dentro da área da tecnologia.
+Muito prazer, me chamo Pedro Luis, tenho 21 anos e moro no Rio de Janeiro, sou estudante de Ciência da Computação na Unicarioca. Sou um apaixonado por tecnologia em busca da primeira oportunidade de estágio que busca cada dia mais aprender coisas novas e me capacitar dentro da área da tecnologia.
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/pedro-gaspar-02b123211/) [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/pl_gaspar1/) 
