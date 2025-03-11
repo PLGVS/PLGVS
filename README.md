@@ -76,7 +76,7 @@ For more details about my work experience, education, and certifications, connec
 </table>
 
 <p align="center">
-<a href="https://gist.github.com/PLGVS"><img src="https://profile-counter.glitch.me/{fs-kayky}/count.svg" alt="PrinceGoblinTech :: Visitor's Count" /></a>
+<a href="https://gist.github.com/PLGVS"><img src="https://profile-counter.glitch.me/{PLGVS}/count.svg" alt="PrinceGoblinTech :: Visitor's Count" /></a>
 </p>
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
