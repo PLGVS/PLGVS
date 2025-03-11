@@ -1,16 +1,122 @@
-# Pedro Luis Gaspar Veira de Souza
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=header"/>
 
-## Sobre mim
-Muito prazer, me chamo Pedro Luis, tenho 21 anos, moro no Rio de Janeiro e sou estudante de Ciência da Computação na Unicarioca.
+<!-- Header typing -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+there!+👋;+I'I'm+Pedro+Luis+Gaspar,+22+yo...;Nice+to+meet+you!&center=true&size=25">
+  </a>
+</h1>
 
-## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/pedro-gaspar-02b123211/)
-## Habilidades
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react) ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript) ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4) ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql) ![GIT](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=git&logoColor=)
+<!-- Redes sociais de contato -->
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PLGVS&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+<!-- Introdução -->
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PLGVS&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+> Hi, I'm [Pedro Luis Gaspar](https://www.linkedin.com/in/pedro-luis-gaspar-vieira-de-souza-02b123211/). I'm a dedicated developer passionate about transforming complex >challenges into elegant solutions. I relentlessly pursue excellence and thrive on innovation, ensuring top-notch results in every >project I tackle.
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=PLGVS&theme=black-ice&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+<!-- Experiencia de Trabalho -->
+
+## 🏆 Work Experience
+
+Below is an overview of my most recent work experience:
+
+[<img align="left" height="94px" width="94px" alt="Company 1" src="https://files.sunoresearch.com.br/p/uploads/2018/10/susep.png"/>](#)
+
+**Data Analist**  
+[**SUSEP**](https://www.gov.br/susep/pt-br) • Intern  
+Languages & Technologies: `AWS` `Python` `Power BI` `Excel` `Word`
+
+<br/>
+
+<br/>
+
+For more details about my work experience, education, and certifications, connect with me on [LinkedIn](https://www.linkedin.com/in/pedro-luis-gaspar-vieira-de-souza-02b123211/).
+
+<!-- Status -->
+<h1 style="text-align: center; margin-bottom: 0;">⚙️ GitHub Analytics</h1>
+<table align="center">
+  <tr>
+    <td>
+      <img
+        src="https://github-readme-stats-one-bice.vercel.app/api?username=fs-kayky&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=fs-kayky&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
+
+<!-- activity graph heroku-app start -->
+<p align="center">
+    <a href="https://wakatime.com/@Goblin8888">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=fs-kayky&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    </a>
+</p>
+<!-- activity graph heroku-app end -->
+
+<table align="center">
+<tr>
+    <td>
+      <img
+        src="https://github-profile-trophy.vercel.app/?username=fs-kayky&theme=onestar&no-frame=true&column=3&row=2"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-readme-streak-stats.herokuapp.com/demo/preview.php?user=fs-kayky&theme=gotham"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+<a href="https://gist.github.com/fs-kayky"><img src="https://profile-counter.glitch.me/{fs-kayky}/count.svg" alt="PrinceGoblinTech :: Visitor's Count" /></a>
+</p>
+
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
+
+<!-- Tecnologias -->
+
+## ⚡ Front-End
+
+<h3>I have experience</h3>
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,css,html,ts,js</p>" />
+  </a>
+</p>
+
+## ⚡ Back-End
+
+<h3>I have experience</h3>
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,py,spring" />
+  </a>
+</p>
+
+## ⚡ Softwares and Tools
+
+<h3>I have experience</h3>
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,docker,figma,github,npm,postman,vscode" />
+  </a>
+</p>
+
+## ⚡ Database
+
+<h3>I have experience</h3>
+<align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  </a>
+</
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer"/>
